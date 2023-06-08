@@ -1,2 +1,2 @@
-# leetcode
-my code from leetcode practice problems
+# LeetCode
+My code from LeetCode practice problems
